@@ -1,25 +1,23 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-table{
-    margin-top: 20px;
-
-}
-
-.calendar, th, td{
+  }
+  
+  table {
+    margin: 20px 0 0 0;
+  }
+  
+  .calendar,
+  th,
+  td {
     border: 1px solid black;
     border-collapse: collapse;
     width: 400px;
     height: 30px;
     text-align: center;
-    
-}
-
-th{
+  }
+  
+  thead {
     background-color: blue;
-    color: white;
-    
-}
+  }
